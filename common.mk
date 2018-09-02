@@ -108,7 +108,7 @@ PRODUCT_PACKAGES += \
 
 # Pocket mode
 PRODUCT_PACKAGES += \
-    OnePlusPocketMode
+    OneplusPocketMode
 
 # Power
 PRODUCT_PACKAGES += \
